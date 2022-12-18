@@ -12,7 +12,7 @@
 
 <!--   
 
-### 📝 Blog para la fundación ["Vientos de Cambio"](http://fvientosdecambio.pythonanywhere.com/)
+### 📝 Blog para la Fundación “Obrando en ti”
 - En este blog se comparte información relevante de la Fundación, como las actividades realizadas o aquellas programadas, su misión y valores, sus orígenes e historia, enlace con otras redes sociales y también una sección que posibilite ingresar al link a través del cual reciben donaciones económicas. 
 - El formato blog permite además, la creación de posteos, siendo administradores, lo que, sin dudas, cumple con lo solicitado por los interesados.
 
