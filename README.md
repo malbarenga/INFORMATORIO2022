@@ -7,6 +7,7 @@
 <p align="center"><strong>Equipo 1</strong> <br />Integrantes 👇</p>
 <p align="center">
 <!-- ACA VAN LOS INTEGRANTES-->
+MAXIMILIANO DAVID ALBARENGA
 </p>
 
 
